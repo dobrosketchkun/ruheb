@@ -1,0 +1,1 @@
+https://github.com/aharonium/fonts/tree/master/Fonts/Hebrew%20Letters%20only/Culmus%20Project%20(GPL%20and%20GPL%2BFE)/Maxim%20Iorsh%20(GPL)/Fancy%20Fonts/ktav-yad

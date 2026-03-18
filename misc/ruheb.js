@@ -12,6 +12,24 @@
 (function() {
     'use strict';
 
+    // === FONT CONFIGURATION ===
+    // Uncomment the block below to use cursive (handwritten) Hebrew font
+
+    /*
+    const style = document.createElement('style');
+    style.textContent = `
+    @font-face {
+        font-family: 'KtavYad';
+        src: url('https://cdn.jsdelivr.net/gh/dobrosketchkun/ruheb@main/misc/fonts/KtavYadCLM-MediumItalic.woff2') format('woff2');
+    }
+    .hebrew-output {
+        font-family: 'KtavYad', cursive !important;
+    }
+    `;
+    document.head.appendChild(style);
+    */
+
+
     // **Mapping Object**
     const correspondences = {
         // **Vowels**
